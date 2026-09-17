@@ -1,0 +1,8 @@
+{
+  "name": "Remix NanAuracle: ZnO-GNP Nanocomposite 3D Digital Twin",
+  "description": "ISEF 2026 atomistic digital twin simulation of resource-adaptive Zinc Oxide - Graphene Nanoplatelet (ZnO-GNP) nanocomposite featuring 5-layer turbostratic graphene, wurtzite ZnO nanocrystal aggregates, 16 covalent Zn-O-C bridges (1.430 Å), and 14 surface oxygen vacancies (V_O).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
